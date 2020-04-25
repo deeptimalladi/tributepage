@@ -1,0 +1,48 @@
+body{
+  margin : 0;
+  padding : 0;
+}
+#main{
+  text-align: center;
+}
+#title{
+  font-size: 29px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  color:#7f8c8d;
+}
+#img-div #image{
+  border-radius: 100%;
+}
+#img-caption > p{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   font-size: 19px;
+   font-weight: 100;
+   color:#7f8c8d;
+}
+#tribute-info > p{
+  font-size: 15px;
+  letter-spacing: 2px;
+  color:#7f8c8d;
+  padding: 10px;
+}
+#tribute-link > a{
+   color:#3498db;
+   font-size: 14px;
+   text-decoration:none;
+}
+h4{
+  color:#7f8c8d;
+  text-decoration: underline;
+}
+#tribute-link > a:hover{
+  color:#e74c3c;
+}
+#footer > p{
+  font-size: 12px;
+  letter-spacing: 2px;
+  color:#7f8c8d;
+  padding: 10px;
+  text-align: center;
+}
